@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#292421"
+    tools:context=".result">
+
+
+    <TextView
+        android:id="@+id/result"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textAlignment="center"
+        android:textColor="#F5F5F5"
+        android:textSize="0.20in"
+        android:gravity="center"
+        android:text="Dear User, Your Booking has been submitted. You will get confirmation on 'My Dashboard'. You have to pay the money and get booking slip by 48 hours otherwise the booking would be considered as cancelled. Please bring your booking number when you pay" />
+</RelativeLayout>

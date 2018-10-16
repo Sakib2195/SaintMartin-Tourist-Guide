@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">SaintMartin Guide</string>
+    <string name="title_activity_maps">Map</string>
+
+
+    <string name="DayWanted">DayWanted</string>
+    <string-array name="Day">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+
+
+    </string-array>
+
+    <string name="chooseRoom">choose a class</string>
+    <string-array name="RoomType">
+        <item>Couple</item>
+        <item>2 Double Bed</item>
+        <item>1 Double and 1 Single Bed</item>
+    </string-array>
+    <string name="TicketWanted">TicketWanted</string>
+    <string-array name="Ticket">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+
+
+    </string-array>
+
+</resources>
